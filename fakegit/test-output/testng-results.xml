@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-24T17:53:37 IST" name="Suite" finished-at="2023-01-24T17:53:55 IST" duration-ms="17887">
+    <groups>
+    </groups>
+    <test started-at="2023-01-24T17:53:37 IST" name="Test" finished-at="2023-01-24T17:53:55 IST" duration-ms="17887">
+      <class name="testCasees.LoginData">
+        <test-method is-config="true" signature="initialization()[pri:0, instance:testCasees.LoginData@26d9b808]" started-at="2023-01-24T17:53:38 IST" name="initialization" finished-at="2023-01-24T17:53:53 IST" duration-ms="15217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="testLoginData()[pri:0, instance:testCasees.LoginData@26d9b808]" started-at="2023-01-24T17:53:53 IST" name="testLoginData" finished-at="2023-01-24T17:53:54 IST" duration-ms="1078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginData -->
+      </class> <!-- testCasees.LoginData -->
+      <class name="testCasees.HomePageData">
+        <test-method signature="productSetup()[pri:0, instance:testCasees.HomePageData@2e8c1c9b]" started-at="2023-01-24T17:53:54 IST" name="productSetup" finished-at="2023-01-24T17:53:55 IST" duration-ms="1414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productSetup -->
+      </class> <!-- testCasees.HomePageData -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
